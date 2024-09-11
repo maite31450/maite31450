@@ -1,3 +1,5 @@
+![hello_banner](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34){ .image25percent }
+
 # Hi @everybody 👋 I'm Maïté
 
 - 👩‍🎓	I'm currently learning Data Analyse 📊 as well as SQL and Python langages 🐍 at **Wild Code School**<br>
