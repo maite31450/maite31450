@@ -1,4 +1,4 @@
-![hello_banner](https://github.com/maite31450/maite31450/blob/main/hello_banner.gif){ .image25percent }
+![hello_banner](https://github.com/maite31450/maite31450/blob/main/hello_banner.gif)
 
 # Hi @everybody 👋 I'm Maïté
 
